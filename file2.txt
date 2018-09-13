@@ -1,2 +1,6 @@
-to the new
+<<<<<<< HEAD
+To The New
+=======
+To The New
+>>>>>>> master
 naman gupta
